@@ -17,3 +17,20 @@ See: <https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-r
 | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 0) check syntax of lab03.py	 | check syntax of lab03.py | 20 | |  ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 1) run pytest on student's test cases	 |areaRect student tests	| 10 |
 | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 0) check syntax of lab03.py	 | check syntax of lab03.py | 20 | |  ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 1) run pytest on student's test cases	 |areaRect student tests	| 10 |
 | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 0) check syntax of lab03.py	 | check syntax of lab03.py | 20 | |  ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 1) run pytest on student's test cases	 |areaRect student tests	| 10 |
+
+
+```diff
+
+PASSED
+
++ (0) check syntax of lab03.py	
++ (0) check syntax of lab03.py	
++ (0) check syntax of lab03.py	
+
+FAILED
+
+- (1) check syntax of lab03.py 
+- (1) check syntax of lab03.py 
+- (1) check syntax of lab03.py 
+
+```
